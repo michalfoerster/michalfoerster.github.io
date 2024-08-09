@@ -9,9 +9,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Michal Foerster
+  name: Vedalva
   bio: >- # tell to the world
-    Autor
+    Legendy i opowieści Norycji. Na podstawie kronik Lingvaru, Vardurii oraz przekazów ustnych.
   username: michalfoerster
   github: michalfoerster
   avatar: /assets/img/avatar.jpg
