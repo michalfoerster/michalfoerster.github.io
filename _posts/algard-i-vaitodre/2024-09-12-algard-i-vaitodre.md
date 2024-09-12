@@ -62,7 +62,7 @@ Kazał zatem rozpalić ognisko u wejścia do groty, a potem rzucać rozpalone ż
 
 Sam labban skulił się w jakimś zagłębieniu, póki ryk nie ucichł. Wówczas uciekł do wioski, pozostawiając zarówno ludzi, jak i sprzęt. Nikomu nie powiedział o tym, co się stało. Likpeusy nie pozwolił do siebie dopuścić.
 
-Następnej nocy ogień zapłonął w górach. Widziało go wielu ludzi z niższych osad. `Girmigars` wypełzł z Rhukastar, podpalając drzewa. Zwabiony wonią, wtargnął do wioski, gdzie zaczął zabijać. Siedmiu ludzi straciło życie nim nadszedł świt i potwór wycofał się w ostępy.
+Następnej nocy ogień zapłonął w górach. Widziało go wielu ludzi z niższych osad. Girmigars wypełzł z Rhukastar, podpalając drzewa. Zwabiony wonią, wtargnął do wioski, gdzie zaczął zabijać. Siedmiu ludzi straciło życie nim nadszedł świt i potwór wycofał się w ostępy.
 
 Ci, którzy przeżyli, jęli szykować się do ucieczki. Nikt wszakże ze straży nie chciał ich poprowadzić. Älgard jeszcze nie wrócił, a pozostali albo byli ranni, albo bali się opuścić swoje domostwa. Jedyna droga z osady prowadząca w dół wiodła przez wyręb w lesie. Lękano się, że tam właśnie ukrywa się Girmigars.
 
@@ -81,20 +81,23 @@ Tak minęła większa część dnia. Kilku drwali uciekło, lecz większość ba
 ## Rozdział drugi
 Byli zaś dzicy, wiłowie, którzy mieszkali opodal, w ukrytej dolinie. Vudran zwała się niewiasta, która im przewodziła. Zaślubiona była dzikiemu imieniem Sasnir, który był myśliwym. On to pierwszy spośród swojego ludu ujrzał Girmigarsa sunącego przez las. Ruszył więc zaraz, by ostrzec pozostałych.
 
-*Girmigars opuścił leże,
-Krwi żądny krąży wśród ludzi.
-Mężowie opór chcą stawiać,
-Lecz do Bedubnis zmierzają.*
+*Girmigars opuścił leże,*
+
+*Krwi żądny krąży wśród ludzi.*
+
+*Mężowie opór chcą stawiać,*
+
+*Lecz do Bedubnis zmierzają.*
 
 Takie słowa wyrzekł Sasnir. Posłuchali go dzicy. Zebrawszy swój dobytek, zbiegli z doliny, kierując się ku wrzosowiskom Silirte. Kiedy wszak przyszło do Vudran, ta nie zgodziła się na ucieczkę:
 
-> – Widziałam w lesie `glevanerów`.
+> – Widziałam w lesie glevanerów.
 
 Tak bowiem ona i jej lud nazywali ludzi z północy. 
 
-> – To się zgadza - zgodził się Sasnir. - Lecz oni wybrali już swój los. Nie możemy nic uczynić, aby go zmienić, czy choćby poprawić. Nie ma też wśród nas `kalvedarów`.
+> – To się zgadza - zgodził się Sasnir. - Lecz oni wybrali już swój los. Nie możemy nic uczynić, aby go zmienić, czy choćby poprawić. Nie ma też wśród nas kalvedarów.
 
-To rzekłszy, jął szykować się do drogi. Była zaś dolina między górami, gdzie rozlewał się staw `Galaurs`. Vudran udała się w tamto miejsce, nie mówiąc o tym Sasnirowi. Stanąwszy nad brzegami Galaursa, zaniosła modły w języku dzikich. Odpowiedział na nie stolim żyjący w wodach stawu.
+To rzekłszy, jął szykować się do drogi. Była zaś dolina między górami, gdzie rozlewał się staw Galaurs. Vudran udała się w tamto miejsce, nie mówiąc o tym Sasnirowi. Stanąwszy nad brzegami Galaursa, zaniosła modły w języku dzikich. Odpowiedział na nie stolim żyjący w wodach stawu.
 
 > – Dlaczego nie odeszłaś, jak pozostali? - zapytał. - Girmigars zabije wszystkich. Tak żądza złota doprowadzi ich do zguby.
 
@@ -108,7 +111,7 @@ Vudran nie przelękła się wszakże słów olbrzyma.
 
 > – Do ciebie należy wybór, dziecino. Jeżeli tego pragniesz, oto moja pomoc.
 
-Stolim sięgnął głęboko ku otchłani stawu, skąd wydobył ostrze z `latrisu`. Płonęło ono ogniem równie mocnym, co blask słońca. Olbrzym położył latris na głazie tuż przed dziewczyną. Ten pękł od gorąca na dwoje. Dlatego ludzie nazywają teraz to miejsce teraz `Drastabs Dalmun`.
+Stolim sięgnął głęboko ku otchłani stawu, skąd wydobył ostrze z latrisu. Płonęło ono ogniem równie mocnym, co blask słońca. Olbrzym położył latris na głazie tuż przed dziewczyną. Ten pękł od gorąca na dwoje. Dlatego ludzie nazywają teraz to miejsce teraz Drastabs Dalmun.
 
 Vudran przyjęła dar od stolimia i rozpłakała się.
 
@@ -132,8 +135,11 @@ Ludziom zdało się, że dziewczyna niesie gwiazdę w rękach, tak silny był b
 Widząc broń, która mogła zadać mu ranę, Girmigars wyrzekł następujące słowa:
 
 *Śmierć niesie córka Hilima*
+
 *W kamieniu, co z krwi pochodzi*
+
 *Stolima. Lecz sama zginie*
+
 *Jeśli zbawić chce śmiertelnych.*
 
 Girmigars sięgnął ku Vudran łapą, chcąc trafić ją w oko. Chybił jednak i przeciął jej lice. Vudran upadła. Gdy ten stanął nad nią, by zadać jej śmierć, wraziła ostrze pod pachę potwora. Dosięgła serca. Tak zginął.
