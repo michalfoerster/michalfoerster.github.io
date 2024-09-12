@@ -18,11 +18,11 @@ On to pierwszy trafił na ścieżkę prowadzącą do jaskini Rhukastar. Stało s
 
 Zaraz udał się do labbana, tak przemawiając do niego:
 
-> – Odkryłem jaskinię w górach, niedaleko wyrębu. Mówię to, żebyś wiedział, że trzeba zwołać straże i zbadać ją, bądź zamknąć. W przeciwnym razie coś może stamtąd wyjść.
+– Odkryłem jaskinię w górach, niedaleko wyrębu. Mówię to, żebyś wiedział, że trzeba zwołać straże i zbadać ją, bądź zamknąć. W przeciwnym razie coś może stamtąd wyjść.
 
-> – Cóż może stamtąd wyjść? - zakpił Gunt. - Niedźwiedź? A może dzicy siedzą w środku, bojąc się wyściubić nosa?
+– Cóż może stamtąd wyjść? - zakpił Gunt. - Niedźwiedź? A może dzicy siedzą w środku, bojąc się wyściubić nosa?
 
-> – Oby nic gorszego - odparł ze złością Älgard, widząc, że biorą go za tchórza.
+– Oby nic gorszego - odparł ze złością Älgard, widząc, że biorą go za tchórza.
 
 Nic więcej nie dodał. 
 
@@ -34,15 +34,15 @@ Straże niechętnie wyprawiały się z drwalami. Droga prowadząca przez las by
 
 Poszedł najpierw do męża imieniem Drastun. Był to człowiek dużej postury, góral, uczciwy, a niebojący się ryzyka. Miał on chatę na skraju osady, gdzie mieszkał z rodziną; i niewielką ziemię do tego. Źle mu się jednak żyło i rad byłby zmienić swoją pozycję.
 
-> – Słuchaj no, Drastun - zagadał doń Älgard. - Sprawy tak się mają, że będę potrzebował twojej pomocy. Jeśli się zdecydujesz, możesz na tym zyskać.
+– Słuchaj no, Drastun - zagadał doń Älgard. - Sprawy tak się mają, że będę potrzebował twojej pomocy. Jeśli się zdecydujesz, możesz na tym zyskać.
 
-> – Mów, co cię trapi - odrzekł tamten. - A może wspólnie zaradzimy kłopotom.
+– Mów, co cię trapi - odrzekł tamten. - A może wspólnie zaradzimy kłopotom.
 
 Älgard wyjawił mu, że jest w okolicy jaskinia, która może być zamieszkana przez rabusiów i kryć ich skarby. Tak ujął to wszystko, aby Drastunowi pokazać, że na wyprawie można zarobić, a słowa nie rzekł o swoich obawach. 
 
-> – Trzeba nam tylko szybko wrócić - rzekł na koniec. - W przeciwnym razie śnieg zasypie ścieżki i czekać trzeba będzie wiosny. A wiesz dobrze, że przez ten czas wieści mogą się roznieść wśród ludzi. Nie chciałbym, aby ktoś nas ubiegł.
+– Trzeba nam tylko szybko wrócić - rzekł na koniec. - W przeciwnym razie śnieg zasypie ścieżki i czekać trzeba będzie wiosny. A wiesz dobrze, że przez ten czas wieści mogą się roznieść wśród ludzi. Nie chciałbym, aby ktoś nas ubiegł.
 
-> – Czuję, że nie mówiłbyś mi tego - odparł na to Drastun - gdyby tak łatwo było wejść do groty. Nie trafiłeś wszakże na tchórza.
+– Czuję, że nie mówiłbyś mi tego - odparł na to Drastun - gdyby tak łatwo było wejść do groty. Nie trafiłeś wszakże na tchórza.
 
 Wspólnie namówili dwóch innych jeszcze, braci Dirsuna i Gavba, wszelako bez zdradzania im szczegółów.
 
@@ -56,7 +56,7 @@ Gunt, który też liczył na łupy, chciał ubiec Älgarda. Wziął sobie trzech
 
 Znalazłszy się przed jaskinią, tak Gunt rzekł do swoich ludzi:
 
-> – Jeśli siedzi tam jaki niedźwiedź, przepędzimy go ogniem. Stańcie tylko dzielnie, a nie bójcie się niczego.
+– Jeśli siedzi tam jaki niedźwiedź, przepędzimy go ogniem. Stańcie tylko dzielnie, a nie bójcie się niczego.
 
 Kazał zatem rozpalić ognisko u wejścia do groty, a potem rzucać rozpalone żagwie do jej wnętrza, licząc że w ten sposób wykurzy niedźwiedzia. Lecz wtem donośny ryk wydobył się z Rhukastar. Był tak silny, że zgasił nie tylko żagwie, ale i ognisko. Ludzie rozbiegli się po lesie, a niektórzy ze strachu stali się jakby bezrozumni.
 
@@ -68,11 +68,11 @@ Ci, którzy przeżyli, jęli szykować się do ucieczki. Nikt wszakże ze stra�
 
 Gunt był wśród tych, którzy bali się wyjść na zewnątrz. Nie chciał ani rozmawiać z ludźmi, ani składać ofiar. Im usilniej dopominano się jego pomocy, tym bardziej krył się po kątach. Aż wreszcie wojowie siłą wyciągnęli go na podwórzec.
 
-> – Jeżeli nie chcesz słowa powiedzieć, zrezygnuj ze stanowiska - powiedział jeden z nich. - Niech kto inny przejmie władzę i postanowi, co robić.
+– Jeżeli nie chcesz słowa powiedzieć, zrezygnuj ze stanowiska - powiedział jeden z nich. - Niech kto inny przejmie władzę i postanowi, co robić.
 
 Mówił to mąż imieniem Divil, którego już wcześniej labban podejrzewał, że chętnie znalazłby się na jego miejscu. Przeto tak mu odpowiedział, mimo strachu, który ściskał mu wnętrzności:
 
-> – Zamilknij, Divilu. Dobrze wiem, co knujesz. Masz serce węża, skore do zdrady. Wyrzucili cię ze straży vedinga, boś zostawił towarzysza w walce. Tyleś wart!
+– Zamilknij, Divilu. Dobrze wiem, co knujesz. Masz serce węża, skore do zdrady. Wyrzucili cię ze straży vedinga, boś zostawił towarzysza w walce. Tyleś wart!
 
 Divil zaraz chciał rzucić się na labbana, zatrzymano go jednak. Na tym sprawa się skończyła, Gunt zaś nic więcej nie powiedział. Widząc, że nic nie wskórają, zaczęto radzić bez niego. Jedni mówili, że trzeba wyprowadzić ludzi z osady, inni zaś, żeby okopać się i kiedy potwór przyjdzie, zarzucić go pociskami, póki nie wyzionie ducha. W to wszakże mało kto wierzył. Widziano bowiem ciała i nikt nie wątpił, że nieprzyjaciela nie można łatwo pokonać.
 
@@ -81,35 +81,32 @@ Tak minęła większa część dnia. Kilku drwali uciekło, lecz większość ba
 ## Rozdział drugi
 Byli zaś dzicy, wiłowie, którzy mieszkali opodal, w ukrytej dolinie. Vudran zwała się niewiasta, która im przewodziła. Zaślubiona była dzikiemu imieniem Sasnir, który był myśliwym. On to pierwszy spośród swojego ludu ujrzał Girmigarsa sunącego przez las. Ruszył więc zaraz, by ostrzec pozostałych.
 
-*Girmigars opuścił leże,*
-
-*Krwi żądny krąży wśród ludzi.*
-
-*Mężowie opór chcą stawiać,*
-
-*Lecz do Bedubnis zmierzają.*
+*Girmigars opuścił leże,*<br>
+*Krwi żądny krąży wśród ludzi.*<br>
+*Mężowie opór chcą stawiać,*<br>
+*Lecz do Bedubnis zmierzają.*<br>
 
 Takie słowa wyrzekł Sasnir. Posłuchali go dzicy. Zebrawszy swój dobytek, zbiegli z doliny, kierując się ku wrzosowiskom Silirte. Kiedy wszak przyszło do Vudran, ta nie zgodziła się na ucieczkę:
 
-> – Widziałam w lesie glevanerów.
+– Widziałam w lesie glevanerów.
 
 Tak bowiem ona i jej lud nazywali ludzi z północy. 
 
-> – To się zgadza - zgodził się Sasnir. - Lecz oni wybrali już swój los. Nie możemy nic uczynić, aby go zmienić, czy choćby poprawić. Nie ma też wśród nas kalvedarów.
+– To się zgadza - zgodził się Sasnir. - Lecz oni wybrali już swój los. Nie możemy nic uczynić, aby go zmienić, czy choćby poprawić. Nie ma też wśród nas kalvedarów.
 
 To rzekłszy, jął szykować się do drogi. Była zaś dolina między górami, gdzie rozlewał się staw Galaurs. Vudran udała się w tamto miejsce, nie mówiąc o tym Sasnirowi. Stanąwszy nad brzegami Galaursa, zaniosła modły w języku dzikich. Odpowiedział na nie stolim żyjący w wodach stawu.
 
-> – Dlaczego nie odeszłaś, jak pozostali? - zapytał. - Girmigars zabije wszystkich. Tak żądza złota doprowadzi ich do zguby.
+– Dlaczego nie odeszłaś, jak pozostali? - zapytał. - Girmigars zabije wszystkich. Tak żądza złota doprowadzi ich do zguby.
 
-> – Ojcze Galaursu, czy nie możesz go pokonać? - odpowiedziała dziewczyna.
+– Ojcze Galaursu, czy nie możesz go pokonać? - odpowiedziała dziewczyna.
 
-> – Przybyłem tu, kiedy góry były jeszcze młode - rzekł stolim. - I pozostanę, póki nie przeminą. Takie jest moje przeznaczenie, nie inne.
+– Przybyłem tu, kiedy góry były jeszcze młode - rzekł stolim. - I pozostanę, póki nie przeminą. Takie jest moje przeznaczenie, nie inne.
 
 Vudran nie przelękła się wszakże słów olbrzyma.
 
-> – Ojcze - rzekła znowu. - Od kiedy nasi przodkowie przybyli na te ziemie, ty i twój lud byliście nam przyjaciółmi. 
+– Ojcze - rzekła znowu. - Od kiedy nasi przodkowie przybyli na te ziemie, ty i twój lud byliście nam przyjaciółmi. 
 
-> – Do ciebie należy wybór, dziecino. Jeżeli tego pragniesz, oto moja pomoc.
+– Do ciebie należy wybór, dziecino. Jeżeli tego pragniesz, oto moja pomoc.
 
 Stolim sięgnął głęboko ku otchłani stawu, skąd wydobył ostrze z latrisu. Płonęło ono ogniem równie mocnym, co blask słońca. Olbrzym położył latris na głazie tuż przed dziewczyną. Ten pękł od gorąca na dwoje. Dlatego ludzie nazywają teraz to miejsce teraz Drastabs Dalmun.
 
@@ -134,13 +131,10 @@ Ludziom zdało się, że dziewczyna niesie gwiazdę w rękach, tak silny był b
 
 Widząc broń, która mogła zadać mu ranę, Girmigars wyrzekł następujące słowa:
 
-*Śmierć niesie córka Hilima*
-
-*W kamieniu, co z krwi pochodzi*
-
-*Stolima. Lecz sama zginie*
-
-*Jeśli zbawić chce śmiertelnych.*
+*Śmierć niesie córka Hilima*<br>
+*W kamieniu, co z krwi pochodzi*<br>
+*Stolima. Lecz sama zginie*<br>
+*Jeśli zbawić chce śmiertelnych.*<br>
 
 Girmigars sięgnął ku Vudran łapą, chcąc trafić ją w oko. Chybił jednak i przeciął jej lice. Vudran upadła. Gdy ten stanął nad nią, by zadać jej śmierć, wraziła ostrze pod pachę potwora. Dosięgła serca. Tak zginął.
 
@@ -155,17 +149,17 @@ Sasnir zapłakał gorzko. Nadal klęcząc z Vudran w ramionach, zaśpiewał na j
 
 Po tym wszystkim ludzie opuścili Rappię, udając się do położonych niżej stacji i osad. Nikt nie chciał też sprawdzać, co znajdowało się w jaskini, aby czasem nie natknąć się na co gorszego. Älgard poszedł do labbana i wobec innych oskarżył go o spowodowanie całego nieszczęścia.
 
-> – Nie myśl sobie, że nie poniesiesz kary - rzekł do niego. - Veding dowie się, coś zrobił i jak postąpiłeś z powierzonymi ci ludźmi. 
+– Nie myśl sobie, że nie poniesiesz kary - rzekł do niego. - Veding dowie się, coś zrobił i jak postąpiłeś z powierzonymi ci ludźmi. 
 
 Älgard planował bowiem udać się na wiosnę do vedinga i przedstawić mu wszystkie postępki labbana, a zwłaszcza śmierć Drastuna. Gunt przeląkł się tych słów, niczego wszakże nie dał znać po sobie.
 
-> – Dobrze wiem, jak się mają sprawy - odparł Älgardowi. - I za kogo cię tam uważają. Nic nie wskórasz na dworze, a tylko napytasz sobie biedy.
+– Dobrze wiem, jak się mają sprawy - odparł Älgardowi. - I za kogo cię tam uważają. Nic nie wskórasz na dworze, a tylko napytasz sobie biedy.
 
-> – Zobaczymy - powiedział tamten. - Możesz być jednak pewien, że sprawy tak nie zostawię.
+– Zobaczymy - powiedział tamten. - Możesz być jednak pewien, że sprawy tak nie zostawię.
 
 Świadkiem rozmowy był Divil. Zaproponował Älgardowi, aby rozprawić się z Guntem na miejscu. Ten nie chciał się zgodzić. Dokuczała mu rana, a poza tym chciał wszystko załatwić zgodnie z prawem.
 
-> – Veding siedzi za górami - stwierdził Divil. - Nie pomoże ci, gdy przyjdzie co do czego. 
+– Veding siedzi za górami - stwierdził Divil. - Nie pomoże ci, gdy przyjdzie co do czego. 
 
 Strażnicy zostali w osadzie, żeby pomóc w ostatnim transporcie przed zimą. Żaden z drwali nie chciał dłużej pracować w Rappii, niewolnych zaś było zbyt mało i nie znali się na robocie. Sprawę postanowiono przekazać vedingowi.
 
@@ -173,13 +167,13 @@ Strażnicy zostali w osadzie, żeby pomóc w ostatnim transporcie przed zimą. �
 
 Likpeusa stwierdziła, że chętnie będzie towarzyszyć mężowi:
 
-> – I mnie tu nic nie trzyma. Weź tylko ze sobą jakiś dowód na śmierć Girmigarsa, a może veding wynagrodzi ci za ten czyn.
+– I mnie tu nic nie trzyma. Weź tylko ze sobą jakiś dowód na śmierć Girmigarsa, a może veding wynagrodzi ci za ten czyn.
 
-> – Nie chcę kłamać w tej sprawie - odparł na to Älgard. - Dość już mam zła, do którego doszło. Najbardziej boli mnie, że tamta kobieta zginęła za nas bez słowa. Myśmy zaś zabili jej towarzysza.
+– Nie chcę kłamać w tej sprawie - odparł na to Älgard. - Dość już mam zła, do którego doszło. Najbardziej boli mnie, że tamta kobieta zginęła za nas bez słowa. Myśmy zaś zabili jej towarzysza.
 
 Na to Likpeusa:
 
-> – Nie powinieneś się tym martwić. Dzicy nie żyją jak ludzie i nigdy nie będziemy mieli z nimi nic wspólnego. Czyż król nie wygnał ich precz z Lingvaru?
+– Nie powinieneś się tym martwić. Dzicy nie żyją jak ludzie i nigdy nie będziemy mieli z nimi nic wspólnego. Czyż król nie wygnał ich precz z Lingvaru?
 
 Älgard z ciężkim sercem poszedł spać. W nocy Likpeusa przyrządziła wywar, który podała mężowi następnego dnia. Wypił, myśląc, że to lekarstwo na ranę zadaną mu przez potwora. Jakiś czas później zmarł, co bardzo ucieszyło labbana.
 
@@ -187,7 +181,7 @@ Likpeusa poszła zatem do Gunta, żeby namówić go na wyprawę do Rhukastar. Te
 
 Tymczasem przygotował sobie dół z solą, gdzie wrzucił łeb Girmigarsa. Na wiosnę, kiedy droga przez góry stała się przejezdna, wziął Gunt łeb i zawiózł do vedinga. Ten zdumiał się opowieścią, lecz nie chciał dać wiary, że to pod wodzą labbana zgładzono bestię. Nagrodził labbana i trzymał go blisko. Dopiero Divil jakiś czas później doniósł, co naprawdę się stało, a także o tym jak postąpił Älgard. Słysząc to veding wezwał labbana, by ten wytłumaczył się przed nim.
 
-> – Masz jego słowo przeciw mojemu, panie - odrzekł na to Gunt. - Gdyby było jak Divil twierdzi, czy nie powinienem był zgładzić Älgarda? A jednak nic mu nie zrobiłem i gdyby nie pochorował się, stałby tu dziś przed tobą. I czy nie ja przyniosłem ci głowę Girmigarsa?
+– Masz jego słowo przeciw mojemu, panie - odrzekł na to Gunt. - Gdyby było jak Divil twierdzi, czy nie powinienem był zgładzić Älgarda? A jednak nic mu nie zrobiłem i gdyby nie pochorował się, stałby tu dziś przed tobą. I czy nie ja przyniosłem ci głowę Girmigarsa?
 
 Tak wykpił się z wszystkich oskarżeń. Później gdy minął rok, poprosił labban o zwolnienie z dworu, na co veding się zgodził. Osiadł na pogórzu, na ziemiach za lasem Dusin i tam żył do późnej starości. Z jego rodu pochodził Survaban.
 
