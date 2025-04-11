@@ -1,7 +1,7 @@
 ---
 layout: default
 ref: index
-lang: en
+lang: pl
 ---
 
 <div class="footer-row" style="display: flex; align-items: center; gap: 10px; margin-bottom: 40px;">
@@ -14,15 +14,14 @@ lang: en
   </div>
 </div>
 
-<h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Teksty:</h1>
 
 <div class="home">
   <ul class="post-list">
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
       <li style="display: flex; align-items: center; gap: 15px;">
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+        <span class="post-meta" style="flex-shrink: 0;">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2 style="margin: 0;">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
         </h2>
