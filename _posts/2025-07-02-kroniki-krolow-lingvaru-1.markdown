@@ -70,7 +70,7 @@ Kiedy zatem nadszedł Burrik wraz z wojownikami, ujrzeli żonę Orvara[21], jak 
 
 Na to wszedł Orvar z tłumaczami. Zdziwiło Burrika, że wiłowie byli nieuzbrojeni, nadto ubrani w proste szaty i bez ozdób. Wódz przywitał Irtajów, dziwiąc się, że udało im się przebyć morze. Pytał też, jak wygląda życie w krainach, gdzie panują Lesarowie. Burrik odpowiadał na wszystko szczerze, lecz zataił sposób, w jaki dostał się do Vintimmaru. Na koniec Orvar, wzruszony ucieczką Irtajów i ich niedolą, zdjął torkwes, i podarował go Burrikowi. Ten przyjął go z radością, tym większą, że naszyjnik wykonany był ze złota. Nie przykładał jednak Burrik wielkiej wagi do słów wodza.
 
-Ludzie osiedlili się u ujścia Narevy, gdzie ziemie były żyzne, a w lasach roiło się od zwierzyny. Burrik upatrzywszy sobie wzgórze, pobudował na nim gród i dał mu nazwę Kalva, sam zaś ogłosił się księciem. Naszyjnik Orvara przekuł w koronę, którą odtąd nosił on i jego synowie. Nazwano ją Ösvöldis[22].
+Ludzie osiedlili się u ujścia Narevy, gdzie ziemie były żyzne, a w lasach roiło się od zwierzyny. Burrik upatrzywszy sobie wzgórze, pobudował na nim gród i dał mu nazwę Kalva, sam zaś ogłosił się księciem. Naszyjnik Orvara przekuł w koronę, którą odtąd nosił on i jego następcy. Nazwano ją Ösvöldis[22].
 
 Wysłano też łodzie, aby sprowadzić osadników z północy. Te jednak ginęły we mgle, gdyż wiłowie nie chcieli dać Burrikowi latyru. Lękali się, że mógłby on wpaść w ręce władców.
 
