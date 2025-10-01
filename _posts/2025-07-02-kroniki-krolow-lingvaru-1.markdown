@@ -12,6 +12,8 @@ lang: pl
 ## 1. O początkach ludzkości
 Kiedy na pniu Madgarrianu[1] pobudowano Ösbairgs[2], Lesarowie[3] zasiedli na tronach, by władać ludami.
 
+[3] zasiedli na tronach, by władać ludami.
+
 Wielu pragnęło wydostać się spod ich władania, a ci, którym to się udało, zbiegli do Lukaru[4]. Tam oswoiwszy bestie, założyli własne państwa. Ci są przodkami Rethenów, Hurów, Sanvigów i Narevingów. Władcy ścigali ich według swych możliwości, a schwytanych sprowadzali na powrót do miasta. Chcąc zapobiec kolejnym ucieczkom, podniesiono też mury Ösbairgs, a wokół grodu wystawiono straże. 
 
 Żył w owych dniach mąż imieniem Telvars, mający posłuch wśród ludzi. Szukał on sposobu, jak wydostać się z niewoli, nie wiedział wszak dokąd uciec, jako że potęga władców sięgała daleko. Pewnego dnia jego żonie przyśniło się kłębowisko węży. Kiedy zajaśniała nad nimi Galauksna[5], węże oślepły. Telvars, usłyszawszy opowieść o śnie, tak go wyłożył:
@@ -34,7 +36,7 @@ Adalowie nie brali jednak nikogo dalej, niż do Hilmy. Ponadto, nawet nauczywsz
 
 Inne ludy zaczęły zwać mieszkańców wybrzeża Irtajami[11], ponieważ potrafili oni poruszać się jedynie wzdłuż wybrzeża, nie zapuszczając głębiej w morze.
 
-## 2. O wyprawie Burrika
+###### 2. O wyprawie Burrika
 Był wśród nich mąż, Tovs, który choć sam nie popłynął do Vintimmaru, wyuczył się szkutnictwa. Miał on dwóch synów, którym przekazał swoją wiedzę, tak że łodzie ich nie miały sobie równych. 
 
 Starszy z braci, Burrik[12], zapragnął zbudować korab, na którym można by przebyć Nasel. Zarówno bowiem on jak i wielu spośród Irtajów lękał się, że pewnego dnia Lesarowie znajdą sposób, aby zdobyć Peligrems. I rzeczywiście, jakby na potwierdzenie ich obaw, z głębi lądu zaczęli przyjeżdżać posłańcy Kagana, żądając trybutu[13]. 
@@ -43,13 +45,13 @@ Burrik wraz z bratem, któremu było Oltis, zbudował łódź na wzór Adalów. 
 
 Powiadają, że Burrik otrzymał od czarownika Narevingów[16] sakwę z zaklętym wiatrem. Inni twierdzili, że to dzięki żaglowi udało mu się przeprawić przez mgły, lub że czar broniący dostępu do Vintimmaru został w jakiś sposób przełamany.
 
-Adalowie umieszczali na dziobach swych łodzi latarnie z latyru[17]. Dawały one dość światła, by żeglarze nie zgubili drogi podczas żeglugi po Naselu. Burrik skradł taką lampę, a po przybyciu na miejsce, korab spalił, żeby ukryć swój czyn. Wielu potem zwało męża z Irtajów pierwszym żeglarzem, jako że nikt przed nim nie dotarł na południe, lecz prawda wyjdzie na jaw.
+Adalowie umieszczali na dziobach swych łodzi latarnie z latyru[17]. Dawały one dość światła, by żeglarze nie zgubili drogi podczas żeglugi po Naselu. Burrik skradł taką lampę, a po przybyciu na miejsce, zniszczył aby ukryć swój czyn. Wielu potem zwało męża z Irtajów pierwszym żeglarzem, jako że nikt przed nim nie dotarł na południe, lecz prawda wyjdzie na jaw.
 
-Postawiwszy łódź, Burrik zgromadził drużynę i ruszył w podróż, nie mówiąc o tym ludziom. Na straży dziedzictwa zostawił młodszego Oltisa, który odtąd rządził Irtajami w Peligremie.
+Postawiwszy łódź, Burrik zgromadził drużynę i ruszył w podróż. Na straży dziedzictwa zostawił młodszego Oltisa, który odtąd rządził Irtajami w Peligremie. Długo wszakże nie siedział na tronie - marny los go spotkał.
 
 Dość rzec, że Burrik wyprawił się na południe wczesną jesienią trzysta lat po tym, jak opuszczono Ösbairgs. Ominął Hilmę i po kilku dniach dotarł do brzegów Vintimmaru. Znalazłszy się u ujścia Narevy, wpłynął w górę rzeki.
 
-## 3. Przepowiednia Laidany
+###### 3. Przepowiednia Laidany
 Wylądował na nadrzecznej polanie otoczonej brzozami, którą nazwał Eiragala[18]. Wzniósł tam osadę otoczoną ostrokołem, chroniącym przed dzikimi zwierzętami.
 
 Kiedy o przybyciu ludzi dowiedzieli się Gavaldowie[19], ich wódz[20], Orvar, udał się na spotkanie z nimi. Stało się to zaś w następujący sposób.
@@ -62,7 +64,6 @@ Kiedy zatem nadszedł Burrik wraz z wojownikami, ujrzeli żonę Orvara[21], jak 
 *Słońca krainą.*<br>
 *Zostaw go za mgłą,*<br>
 *nim w serca się wślizgnie.*<br>
-
 *Zmianę przynosi*<br>
 *Gałęzi tchnienie.*<br>
 *Mąż bystry go słucha*<br>
@@ -72,9 +73,9 @@ Na to wszedł Orvar z tłumaczami. Zdziwiło Burrika, że wiłowie byli nieuzbro
 
 Ludzie osiedlili się u ujścia Narevy, gdzie ziemie były żyzne, a w lasach roiło się od zwierzyny. Burrik upatrzywszy sobie wzgórze, pobudował na nim gród i dał mu nazwę Kalva, sam zaś ogłosił się księciem. Naszyjnik Orvara przekuł w koronę, którą odtąd nosił on i jego następcy. Nazwano ją Ösvöldis[22].
 
-Wysłano też łodzie, aby sprowadzić osadników z północy. Te jednak ginęły we mgle, gdyż wiłowie nie chcieli dać Burrikowi latyru. Lękali się, że mógłby on wpaść w ręce władców.
+Planowano też wysłać łodzie, aby sprowadzić osadników z północy. Burrik nie miał jednak więcej latyru, z którego mógłby uczynić latarnie, a bez nich nie można było przeprawić się przez Nasel. Wiłowie z kolei, mimo przyjaźni, nie chcieli dać ludziom latyru. Lękali się, że mógłby on wpaść w ręce władców.
 
-## 4. O złamaniu przyjaźni
+###### 4. O złamaniu przyjaźni
 Burrik przyrzekł Orvarowi, że nie będzie pływał do wybrzeży Peligremu. W skrytości serca nie miał jednak zamiaru dotrzymać obietnicy. 
 
 Wiłowie w owych dniach nie kryli się jeszcze przed ludźmi, dzieląc się z nimi swoją wiedzą. Również stolimowie żyli w górach, skałoludy i jegrzce kryły się po lasach, a mnóstwo innych dziwnych stworzeń zamieszkiwało Norycję. Najosobliwsi z nich zaś byli wiłowie, co nie tylko z wyglądu różnią się od nas, ale żyją inaczej niż wszystkie ludy.
@@ -83,17 +84,17 @@ Burrik bywał gościem u Orvara, a ludzie swobodnie korzystali z ogrodów wiłó
 
 Poznawszy lepiej Gavaldów, Burrik wzgardził nimi, a ich wodza zaczął zwać wśród swoich leśnym królem, albo i gorzej. Nie doceniał ani przyjaźni, ani otrzymanej pomocy, które w jego oczach niewiele znaczyły. Kusiły go góry na południu, słyszał o nich bowiem, iż skrywają srebro. Jeszcze bardziej zaś pragnął latyru.
 
-Miał zaś książę Irtajów w swej drużynie człowieka imieniem Aislar. Mówiono wszakże na niego Rohumo[24], bo był przebiegły i znał wiele podstępów. Owego to męża Burrik nakłonił, by wykradł dlań latyr. 
+Miał zaś książę Irtajów w swej drużynie człowieka imieniem Aislar. Mówiono wszakże na niego Rohumo[24], bo był przebiegły i znał wiele podstępów. Niektórzy mówili, że jest on synem wiedźmy. Owego to męża Burrik nakłonił, by wykradł dlań latyr. 
 
 Udając pieśniarza, Rohumo namówił Gavaldów, by uczyli go swoich opowieści. Tak dowiedział się, gdzie kryją latyr i jak wydobywają go z górskich jezior, i łowią w morzu. 
 
-Dowiedziawszy się o tym, Burrik zgromadził wojowników, a każdemu wiele obiecał, aby tylko chcieli go słuchać. Gdy nadeszła pora, poszedł na drogę, gdzie wiłowie przewozili latyr, i pobił ich. Zginęli wszyscy, nie oszczędzono nawet bydła, na którym wieźli stągwie z latyrem. Chwały mu to nie przyniosło, bo i transport nie był chroniony.
+Dowiedziawszy się o tym, Burrik zgromadził wojowników, a każdemu wiele obiecał, aby tylko chcieli go słuchać. Gdy nadeszła pora, poszedł na drogę, gdzie wiłowie przewozili latyr, i pobił ich. Zginęli wszyscy, nie oszczędzono nawet bydła, na którym wieźli stągwie z latyrem. A że straży przy nich nie było, chwały mu to nie przyniosło.
 
 Teraz, kiedy władca Kalvy miał już latyr, wyciągnął z ukrycia łodzie, które wcześniej kazał naszykować. Posłał ich dziewięć na północ, do brata swego Oltisa ze słowami: 
 
 – Przybywaj do mnie, a weź ze sobą, ilu tylko zdołasz. 
 
-I wiele zachęt do tego jeszcze dodał, ufając, że wnet władać będzie wieloma więcej niż tylko tymi, których zabrał ze sobą. Polecił też jechać Rohumowi, bo chciał się go łatwo pozbyć.
+I wiele zachęt do tego jeszcze dodał, mniemając, że 1. - rychło władać będzie wieloma więcej niż tylko tymi, których zabrał ze sobą. Polecił też jechać Rohumowi, bo dotarły do Burrika wieści, kim jest ów mąż i chciał się go pozbyć. Ten jednak odkrył zamysły swojego pana, a jako że w skrytości serca służył innym potęgom, postanowił go zdradzić.
 
 Ciała zabitych kazał Burrik zakopać w lesie. Co nie przeszłoby wśród ludzi, udało mu się z wiłami. Gdy Orvar opowiedział mu o zaginięciu swoich, Burrik udał zaskoczenie. Potem skłamał, że i jego ludzie czasami znikają bez wieści. 
 
@@ -101,7 +102,7 @@ Ciała zabitych kazał Burrik zakopać w lesie. Co nie przeszłoby wśród ludzi
 
 Orvar uwierzył jego słowom, gdyż wiłowie nie znali kłamstw i byli bardziej łatwowierni, niż to bywało w późniejszych latach.
 
-## 5. Śmierć Burrika
+###### 5. Śmierć Burrika
 Łodzie, które posłano, niebawem dotarły do Peligremu. Posłowie udali się do Olitsa, by złożyć pokłon i przekazać wieści od brata. Na miejscu okazało się, że krainą włada kto inny, Oltis zaś nie żyje.
 
 Przyszedł bowiem Kagan do niego, tak mówiąc:
@@ -110,19 +111,21 @@ Przyszedł bowiem Kagan do niego, tak mówiąc:
 
 Oltis nie chciał płacić, myśląc, że zdoła schronić się w jaskiniach, jak to robił dotychczas. Lecz Presteving, który był jego podkomorzym, zrzucił go z tronu, zanim jeszcze doszło do wojny.
 
-Przyjął on teraz posłów grzecznie, wypytując o wszystko. Ci jednak bali się mówić z nim otwarcie, podejrzewając podstęp. Presteving odprawił ich więc, licząc, że później wybada prawdziwy powód ich przybycia. W nocy, kiedy kładł się spać, przyszedł do niego Rohumo.
+Przyjął on teraz posłów grzecznie, wypytując o wszystko. Ci jednak bali się mówić z nim otwarcie, podejrzewając podstęp. Presteving odprawił ich więc, ufając, iż w stosownej porze wybada prawdę o ich przybyciu. W nocy, kiedy kładł się spać, przyszedł do niego Rohumo.
 
 – Jeśli chcesz pokonać morze – powiedział do Prestevinga – Musisz zdobyć latarnie, które ukryli w beczkach. Vintimmars jest bogaty we wszelkie dobra, a przede wszystkim nie ma tam Lesarów, Burrik zaś jest słaby i łatwo można się go pozbyć.
 
-To powiedziawszy, wyjawił władcy Peligremu wszystko, co wiedział. Presteving pochwalił go i obiecał nagrodę za zdradę. 
+To powiedziawszy, wyjawił władcy Peligremu wszystko, co wiedział. Presteving pochwalił go i obiecał nagrodę za zdradę.
 
-Nazajutrz przeszukano łodzie, a beczki z latarniami zabrano. Posłów zaś uwięziono. Zebrawszy swoich, Presteving wyruszył na trzydziestu łodziach. Pierwszy wypłynął sam z drużyną, za nim podążyli osadnicy.
+Rohumo namówił też władcę, aby ten dał mu kilku ludzi, lecz nie powiedział, w jakim celu. W tajemnicy przed wszystkimi posłał ich do Kagana, chcąc powiadomić władców o tym, co zdziałał Burrik, a także o sposobie, w jaki ludzie pokonali mgły Naselu.
+
+Nazajutrz przetrząśnięto łodzie, a beczki z latarniami zabrano. Posłów zaś uwięziono. Zebrawszy swoich, Presteving wyruszył na trzydziestu łodziach. Pierwszy wypłynął sam z drużyną, za nim podążyli osadnicy.
 
 Kiedy Burrik ujrzał łodzie, a były to te same, które posłał do Peligremu, ucieszył się i wyszedł im naprzeciw. Rohumo zaś wyskoczył do wody, wołając księcia, aby przyszedł przywitać się z bratem. Burrik wyszedł na plażę, a wtedy Rohumo uderzył na niego i rozpłatał mu głowę. Wtedy nadpłynęły łodzie z wojownikami. 
 
 Ludzie Burrika uciekli do Kalvy. Presteving ścigał ich, a gdy nie chcieli poddać grodu, podłożył ogień. Jako że Kalvę chroniła tylko palisada, gdy więc spłonęła, doszło do bitwy. Zginęli w niej wojowie Burrika, a gród zniszczał do szczętu.
 
-Wiłowie, myśląc, że wybuchł pożar, spieszyli do Kalvy z pomocą i wielu z nich poginęło. W tym też czasie zalany został ostrów, na którym rosła niezwykła lipa, tak że więcej jej nie widziano.
+Wiłowie, myśląc, że wybuchł pożar, spieszyli do Kalvy z pomocą i wielu z nich poginęło. Kiedy odeszli, wody Narevy wystąpiły z brzegów i zalały ostrów, na którym rosła niezwykła lipa, tak że więcej jej nie widziano. Słyszałem, opowieści, że stało się tak na skutek łez Laidane, które ta wylała z żalu po śmierci tak wielu pobratymców.
 
 Presteving zabrał Ösvöldis, niedaleko zaś spalonego grodu postawił dwór. Na cześć dawnego swojego mieszkania nazwał go Irstva[25]. Podzielił ziemię i dał ją swoim wojownikom. Kiedy zaś przyszedł do niego Rohumo, wsadził go na łódź i wypchnął w morze, ze słowami:
 
@@ -142,33 +145,29 @@ Po tym wszystkim Presteving kazał koronować się na króla, w miejscu gdzie zn
 
 *Tu kończy się manuskrypt Devinsa.*
 
-## Skróty
-- `ar`., język areilski
-- `nor`., język norycki (dialekt lingvarski)
-
-## Przypisy
-1. Madgarrian, `nor.` dosł. "wielkie drzewo".
-2. Ösbairgs, `nor.` "Złote Wzgórze". Później zwano to miasto też Ausardis, czyli "Złota Zagroda".
-3. Lesarowie, etym. nieznana. W *Kronice* równoznaczni z "Władcami". Nazwa zdaje się odnosić zarówno do żmijów z Ausardis, jak i ich ludzkich reprezentantów.
-4. Lukar a. Lukaria, nazwa niejasna. Stepy wokół Ausardis zwano też Gal Tautuns, `nor.` "Białe Pola".
-5. Galauksna, `nor.` "Biała Gwiazda". Wiłowie zwali ją Nerianeline, "Panią-Kwiatem Ludzi" i uważali, że zawiesiła ją na niebie sama Sōline.
-6. Busvrath, `nor.` "Mysia Brama".
-7. Peligrems, `nor.` "Śpiew Ptaków".
-8. Adalowie, plemię wiłów z wyspy Adalsia. Hilma - norycka nazwa wyspy Adalsia znajdującej się na morzu Nasel.
-9. Możliwe, że późniejsza interpolacja. W areile rzeczywiście istnieją takie słowa - np. *glevinar*, "smutny, ciemny, zagubiony".
-10. Vintimmars, `nor.` "Za Cieniem". Określenie ziem na południe od morza Nasel.
-11. czyli "Wioślarzami"; `nor.`
-12. Burrik, `nor.` "Żeglarz".
-13. Chodzi o Kaganat Smoka, związek plemion służebnych, poddanych Lesarom. Możliwe że w czasach Burrika jeszcze nie istniał. Trybut w przypadku Kaganatu oznaczał coroczne oddawanie określonej grupy młodzieńców lub dziewic. Z dalszego toku opowieści wynika, że Kaganat mógł zbierać też opłaty w złocie.
-14. Skrels, `nor.` "Skrzydlaty" bądź "Skrzący".
-15. Drasvargs, `nor.` "Wielki Smok".
-16. Niewątpliwie późniejsza interpolacja. Narevingowie pojawili się na stepach kilkaset lat później.
-17. latyr, nazwa zniekształcona. Chodzi o *kalatār*, szary bursztyn wydobywany na wybrzeżach Norycji.
-18. Eiragala a. Ergolla, `nor.` etymologia niejasna. Autor tłumaczy ją od *eiri gal*, czyli "w środku białego". Możliwe jednak, że nazwa pochodzi od przydomku Orvara - Areigal, "Mówiący Wiatr".
-19. Gavaldowie - plemię wiłów zamieszkujących w dorzecze Narevy.
-20. wódz (dosł. labban, "naczelnik"). Bardziej odpowiednim słowiem powinno być "książę" albo nawet "król".
-21. "żona Orvara". Była to Laidane z Kenaldów, z gór Velsire.
-22. Ösvöldis, `nor.` "Złoty Sznur".
-23. ogrody wiłów były wydzielonymi partiami lasu, gdzie uprawiano drzewa i krzewy owocowe.
-24. Rohumo, `nor.` "Zaskroniec".
-25. Irstva, `nor.` "Jama". Autor odnosi się do słynnego portu Irstvabarg. W rzeczywistości gród powstał znacznie później. Po zniszczeniu Kalvy przez długi czas ludzie nie mieszkali u ujścia Narevy.
+##### Przypisy
+1: Madgarrian, `nor.` dosł. "wielkie drzewo".
+2: Ösbairgs, `nor.` "Złote Wzgórze". Później zwano to miasto też Ausardis, czyli "Złota Zagroda".
+3: Lesarowie, etym. nieznana. W *Kronice* równoznaczni z "Władcami". Nazwa zdaje się odnosić zarówno do żmijów z Ausardis, jak i ich ludzkich reprezentantów.
+4: Lukar a. Lukaria, nazwa niejasna. Stepy wokół Ausardis zwano też Gal Tautuns, `nor.` "Białe Pola".
+5: Galauksna, `nor.` "Biała Gwiazda". Wiłowie zwali ją Nerianeline, "Panią-Kwiatem Ludzi" i uważali, że zawiesiła ją na niebie sama Sōline.
+6: Busvrath, `nor.` "Mysia Brama".
+7: Peligrems, `nor.` "Śpiew Ptaków".
+8: Adalowie, plemię wiłów z wyspy Adalsia. Hilma - norycka nazwa wyspy Adalsia znajdującej się na morzu Nasel.
+9: Możliwe, że późniejsza interpolacja. W areile rzeczywiście istnieją takie słowa - np. *glevinar*, "smutny, ciemny, zagubiony".
+10: Vintimmars, `nor.` "Za Cieniem". Określenie ziem na południe od morza Nasel.
+11: czyli "Wioślarzami"; `nor.`
+12: Burrik, `nor.` "Żeglarz".
+13: Chodzi o Kaganat Smoka, związek plemion służebnych, poddanych Lesarom. Możliwe że w czasach Burrika jeszcze nie istniał. Trybut w przypadku Kaganatu oznaczał coroczne oddawanie określonej grupy młodzieńców lub dziewic. Z dalszego toku opowieści wynika, że Kaganat mógł zbierać też opłaty w złocie.
+[14]: Skrels, `nor.` "Skrzydlaty" bądź "Skrzący".
+[15]: Drasvargs, `nor.` "Wielki Smok".
+[16]: Niewątpliwie późniejsza interpolacja. Narevingowie pojawili się na stepach kilkaset lat później.
+[17]: latyr, nazwa zniekształcona. Chodzi o *kalatār*, szary bursztyn wydobywany na wybrzeżach Norycji.
+[18]: Eiragala a. Ergolla, `nor.` etymologia niejasna. Autor tłumaczy ją od *eiri gal*, czyli "w środku białego". Możliwe jednak, że nazwa pochodzi od przydomku Orvara - Areigal, "Mówiący Wiatr".
+[19]: Gavaldowie - plemię wiłów zamieszkujących w dorzecze Narevy.
+[20]: wódz (dosł. labban, "naczelnik"). Bardziej odpowiednim słowiem powinno być "książę" albo nawet "król".
+[21]: "żona Orvara". Była to Laidane z Kenaldów, z gór Velsire.
+[22]: Ösvöldis, `nor.` "Złoty Sznur".
+[23]: ogrody wiłów były wydzielonymi partiami lasu, gdzie uprawiano drzewa i krzewy owocowe.
+[24]: Rohumo, `nor.` "Zaskroniec".
+[25]: Irstva, `nor.` "Jama". Autor odnosi się do słynnego portu Irstvabarg. W rzeczywistości gród powstał znacznie później. Po zniszczeniu Kalvy przez długi czas ludzie nie mieszkali u ujścia Narevy.
