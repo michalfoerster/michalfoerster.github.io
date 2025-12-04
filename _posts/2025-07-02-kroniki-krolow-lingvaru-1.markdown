@@ -12,8 +12,6 @@ lang: pl
 ## 1. O początkach ludzkości
 Kiedy na pniu Madgarrianu[1] pobudowano Ösbairgs[2], Lesarowie[3] zasiedli na tronach, by władać ludami.
 
-[3] zasiedli na tronach, by władać ludami.
-
 Wielu pragnęło wydostać się spod ich władania, a ci, którym to się udało, zbiegli do Lukaru[4]. Tam oswoiwszy bestie, założyli własne państwa. Ci są przodkami Rethenów, Hurów, Sanvigów i Narevingów. Władcy ścigali ich według swych możliwości, a schwytanych sprowadzali na powrót do miasta. Chcąc zapobiec kolejnym ucieczkom, podniesiono też mury Ösbairgs, a wokół grodu wystawiono straże. 
 
 Żył w owych dniach mąż imieniem Telvars, mający posłuch wśród ludzi. Szukał on sposobu, jak wydostać się z niewoli, nie wiedział wszak dokąd uciec, jako że potęga władców sięgała daleko. Pewnego dnia jego żonie przyśniło się kłębowisko węży. Kiedy zajaśniała nad nimi Galauksna[5], węże oślepły. Telvars, usłyszawszy opowieść o śnie, tak go wyłożył:
@@ -146,19 +144,19 @@ Po tym wszystkim Presteving kazał koronować się na króla, w miejscu gdzie zn
 *Tu kończy się manuskrypt Devinsa.*
 
 ##### Przypisy
-1: Madgarrian, `nor.` dosł. "wielkie drzewo".
-2: Ösbairgs, `nor.` "Złote Wzgórze". Później zwano to miasto też Ausardis, czyli "Złota Zagroda".
-3: Lesarowie, etym. nieznana. W *Kronice* równoznaczni z "Władcami". Nazwa zdaje się odnosić zarówno do żmijów z Ausardis, jak i ich ludzkich reprezentantów.
-4: Lukar a. Lukaria, nazwa niejasna. Stepy wokół Ausardis zwano też Gal Tautuns, `nor.` "Białe Pola".
-5: Galauksna, `nor.` "Biała Gwiazda". Wiłowie zwali ją Nerianeline, "Panią-Kwiatem Ludzi" i uważali, że zawiesiła ją na niebie sama Sōline.
-6: Busvrath, `nor.` "Mysia Brama".
-7: Peligrems, `nor.` "Śpiew Ptaków".
-8: Adalowie, plemię wiłów z wyspy Adalsia. Hilma - norycka nazwa wyspy Adalsia znajdującej się na morzu Nasel.
-9: Możliwe, że późniejsza interpolacja. W areile rzeczywiście istnieją takie słowa - np. *glevinar*, "smutny, ciemny, zagubiony".
-10: Vintimmars, `nor.` "Za Cieniem". Określenie ziem na południe od morza Nasel.
-11: czyli "Wioślarzami"; `nor.`
-12: Burrik, `nor.` "Żeglarz".
-13: Chodzi o Kaganat Smoka, związek plemion służebnych, poddanych Lesarom. Możliwe że w czasach Burrika jeszcze nie istniał. Trybut w przypadku Kaganatu oznaczał coroczne oddawanie określonej grupy młodzieńców lub dziewic. Z dalszego toku opowieści wynika, że Kaganat mógł zbierać też opłaty w złocie.
+[1]: Madgarrian, `nor.` dosł. "wielkie drzewo".
+[2]: Ösbairgs, `nor.` "Złote Wzgórze". Później zwano to miasto też Ausardis, czyli "Złota Zagroda".
+[3]: Lesarowie, etym. nieznana. W *Kronice* równoznaczni z "Władcami". Nazwa zdaje się odnosić zarówno do żmijów z Ausardis, jak i ich ludzkich reprezentantów.
+[4]: Lukar a. Lukaria, nazwa niejasna. Stepy wokół Ausardis zwano też Gal Tautuns, `nor.` "Białe Pola".
+[5]: Galauksna, `nor.` "Biała Gwiazda". Wiłowie zwali ją Nerianeline, "Panią-Kwiatem Ludzi" i uważali, że zawiesiła ją na niebie sama Sōline.
+[6]: Busvrath, `nor.` "Mysia Brama".
+[7]: Peligrems, `nor.` "Śpiew Ptaków".
+[8]: Adalowie, plemię wiłów z wyspy Adalsia. Hilma - norycka nazwa wyspy Adalsia znajdującej się na morzu Nasel.
+[9]: Możliwe, że późniejsza interpolacja. W areile rzeczywiście istnieją takie słowa - np. *glevinar*, "smutny, ciemny, zagubiony".
+[10]: Vintimmars, `nor.` "Za Cieniem". Określenie ziem na południe od morza Nasel.
+[11]: czyli "Wioślarzami"; `nor.`
+[12]: Burrik, `nor.` "Żeglarz".
+[13]: Chodzi o Kaganat Smoka, związek plemion służebnych, poddanych Lesarom. Możliwe że w czasach Burrika jeszcze nie istniał. Trybut w przypadku Kaganatu oznaczał coroczne oddawanie określonej grupy młodzieńców lub dziewic. Z dalszego toku opowieści wynika, że Kaganat mógł zbierać też opłaty w złocie.
 [14]: Skrels, `nor.` "Skrzydlaty" bądź "Skrzący".
 [15]: Drasvargs, `nor.` "Wielki Smok".
 [16]: Niewątpliwie późniejsza interpolacja. Narevingowie pojawili się na stepach kilkaset lat później.
