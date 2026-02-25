@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Księżniczka i smok - pieśń lingvarska"
-lang: en
+lang: pl
 date: 2026-02-25
 ref: princess-dragon-song
 ---
