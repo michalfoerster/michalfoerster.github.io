@@ -10,23 +10,17 @@ lang: pl
     src="{{ site.baseurl }}/assets/img/avatar.jpg"
     alt="Avatar {{ site.author }}"
   />
-  <div class="footer-col-3">
-    <p>{{ site.description[page.lang] }}</p>
-  </div>
+  <p class="intro-text">{{ site.description[page.lang] }}</p>
 </div>
 
-  <h1 class="page-heading">Teksty:</h1>
-
-<div class="home">
-  <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li class="post-list-item">
-        <span class="post-meta post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2 class="post-list-title">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="post-list">
+  {% assign posts = site.posts | where: "lang", page.lang %}
+  {% for post in posts %}
+  <article class="post-list-item">
+    <p class="post-list-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+    <h2 class="post-list-title">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+    </h2>
+  </article>
+  {% endfor %}
 </div>

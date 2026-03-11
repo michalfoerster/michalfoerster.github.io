@@ -7,17 +7,36 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[current_lang] | default: site.title.en | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[current_lang] | default: site.description.en }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url }}">
+  <script>
+    (function () {
+      try {
+        var storedTheme = localStorage.getItem("mf-theme");
+        if (storedTheme === "dark" || storedTheme === "light") {
+          document.documentElement.setAttribute("data-theme", storedTheme);
+        }
+      } catch (error) {
+        document.documentElement.setAttribute("data-theme", "light");
+      }
+    })();
+  </script>
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
   {% if page.ref %}
-    {% assign translated_posts = site.posts | where:"ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+    {% assign translated_posts = site.posts | where: "ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+    {% assign translated_pages = site.pages | where: "ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+
     {% for version in translated_posts %}
   <link rel="alternate" hreflang="{{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}" />
     {% endfor %}
-    {% assign translated_pages = site.pages | where:"ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
-    {% for version in translated_pages %}
+
+    {% if translated_posts.size == 0 %}
+      {% for version in translated_pages %}
   <link rel="alternate" hreflang="{{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}" />
-    {% endfor %}
+      {% endfor %}
+    {% endif %}
   {% endif %}
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.title[current_lang] | default: site.title.en }}" href="{{ site.feed[current_lang] | default: site.feed.en | prepend: site.baseurl | prepend: site.url }}">
 </head>

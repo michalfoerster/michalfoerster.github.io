@@ -1,28 +1,36 @@
-<div class="wrapper">
-    {% assign current_lang = page.lang | default: "en" %}
+{% assign current_lang = page.lang | default: "en" %}
+{% assign home_label = "Home" %}
+{% assign toggle_label = "Switch to dark mode" %}
+{% if current_lang == "pl" %}
+  {% assign home_label = "Strona główna" %}
+  {% assign toggle_label = "Przełącz na tryb ciemny" %}
+{% endif %}
 
-    <a class="site-title" href="{{ site.index[current_lang] | default: "" | prepend: "/" | prepend: site.baseurl | prepend: site.url }}">{{ site.title[current_lang] | default: site.title.en }}</a>
+<header class="site-header">
+  <a class="site-title" href="{{ site.index[current_lang] | default: '' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title[current_lang] | default: site.title.en }}</a>
 
-    <nav class="site-nav">
-      <div class="trigger">
-        {% assign nav_pages = site.pages | where:"lang", current_lang %}
-        {% for nav_page in nav_pages %}
-          {% if nav_page.title %}
-          <a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}">{{ nav_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-
-        {% if page.ref %}
-          {% assign post_versions = site.posts | where:"ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
-          {% for version in post_versions %}
-          <a class="page-language {{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}">{{ version.lang }}</a>
-          {% endfor %}
-
-          {% assign page_versions = site.pages | where:"ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
-          {% for version in page_versions %}
-          <a class="page-language {{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}">{{ version.lang }}</a>
-          {% endfor %}
-        {% endif %}
-      </div>
+  <div class="site-controls">
+    <nav class="site-nav" aria-label="Main">
+      <a class="control-link" href="{{ site.index[current_lang] | default: '' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">{{ home_label }}</a>
     </nav>
+
+    <div class="language-switch" aria-label="Languages">
+      {% if page.ref %}
+        {% assign translated_posts = site.posts | where: "ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+        {% assign translated_pages = site.pages | where: "ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+        {% assign translations = translated_posts %}
+        {% if translated_posts.size == 0 %}
+          {% assign translations = translated_pages %}
+        {% endif %}
+
+        {% for version in translations %}
+        <a class="control-link language-link {% if version.lang == current_lang %}is-active{% endif %}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}">{{ version.lang | upcase }}</a>
+        {% endfor %}
+      {% endif %}
+    </div>
+
+    <button id="theme-toggle" class="control-link theme-toggle" type="button" aria-label="{{ toggle_label }}" title="{{ toggle_label }}">
+      <span aria-hidden="true">☀</span>
+    </button>
   </div>
+</header>

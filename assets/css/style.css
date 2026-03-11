@@ -1,0 +1,253 @@
+@import url("https://cdn.jsdelivr.net/npm/computer-modern@0.1.3/cmu-serif.css");
+
+:root {
+  --bg: #efece5;
+  --text: #22201c;
+  --muted: #66605a;
+  --line: #d4ccc0;
+  --link: #8f2e15;
+  --link-hover: #b33d20;
+}
+
+:root[data-theme="dark"] {
+  --bg: #101217;
+  --text: #ece5d8;
+  --muted: #b2a894;
+  --line: #303743;
+  --link: #efc676;
+  --link-hover: #ffd98f;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+}
+
+.Margins {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.25rem 1rem 3rem;
+}
+
+.site-header {
+  width: 100%;
+  margin: 0 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.site-title {
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: var(--text);
+  letter-spacing: 0.02em;
+}
+
+.site-controls {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.site-nav,
+.language-switch {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.control-link {
+  color: var(--text);
+  text-decoration: none;
+  padding: 0.16rem 0.32rem;
+  font-size: 0.92rem;
+  cursor: pointer;
+  line-height: 1.2;
+  font-family: inherit;
+  border: 0;
+  background: transparent;
+}
+
+.control-link:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+.language-link.is-active {
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+}
+
+.PaperContent {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+.intro-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin: 0 0 1.6rem;
+}
+
+.site-avatar {
+  width: 92px;
+  height: 92px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  margin: 0;
+}
+
+.intro-text {
+  margin: 0;
+  font-size: 1.12rem;
+  text-align: left;
+  text-indent: 0;
+}
+
+.Section {
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: clamp(1.6rem, 3vw, 2.15rem);
+  margin: 0 0 0.85rem;
+}
+
+.SubSection {
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+  margin: 1.2rem 0 0.6rem;
+}
+
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.post-list-item {
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.post-list-meta,
+.post-meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.post-list-title {
+  margin: 0.22rem 0 0;
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: clamp(1.25rem, 2.4vw, 1.5rem);
+}
+
+.post-link {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.post-link:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.DocumentBody {
+  font-size: 1.16rem;
+}
+
+.DocumentBody p {
+  margin: 0 0 1rem;
+  text-align: justify;
+}
+
+.DocumentBody h2,
+.DocumentBody h3,
+.DocumentBody h4 {
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  margin: 1.6rem 0 0.8rem;
+}
+
+.DocumentBody ul,
+.DocumentBody ol {
+  margin: 0 0 1rem 1.1rem;
+}
+
+.DocumentBody blockquote {
+  margin: 1rem 0;
+  padding: 0.2rem 0 0.2rem 0.9rem;
+  border-left: 3px solid var(--line);
+  color: var(--muted);
+}
+
+.DocumentBody code {
+  font-size: 0.9em;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  padding: 0.15rem 0.32rem;
+}
+
+.site-footer {
+  width: 100%;
+  margin: 1.2rem 0 0;
+  color: var(--muted);
+  text-align: center;
+  font-size: 0.88rem;
+  border-top: 1px solid var(--line);
+  padding-top: 0.7rem;
+}
+
+@media (max-width: 640px) {
+  .site-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .site-controls {
+    justify-content: flex-start;
+  }
+
+  .site-avatar {
+    width: 74px;
+    height: 74px;
+  }
+
+  .intro-text,
+  .DocumentBody {
+    font-size: 1.04rem;
+  }
+}
