@@ -4,7 +4,7 @@ permalink: /sitemaps.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {% assign translated_pages = site.pages | where_exp:"item", "item.lang and item.ref and item.url != '/404.html'" %}
+  {% assign translated_pages = site.pages | where_exp: "item", "item.lang" | where_exp: "item", "item.ref" %}
   {% for post in site.posts %}
     <url>
       <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
@@ -17,6 +17,7 @@ permalink: /sitemaps.xml
     </url>
   {% endfor %}
   {% for page in translated_pages %}
+    {% if page.url != "/404.html" %}
     <url>
       <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
       {% assign versions = translated_pages | where:"ref", page.ref | sort: "lang" %}
@@ -25,5 +26,6 @@ permalink: /sitemaps.xml
       {% endfor %}
       <changefreq>weekly</changefreq>
     </url>
+    {% endif %}
   {% endfor %}
 </urlset>
