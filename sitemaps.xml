@@ -4,29 +4,26 @@ permalink: /sitemaps.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {% assign translated_pages = site.pages | where_exp:"item", "item.lang and item.ref and item.url != '/404.html'" %}
   {% for post in site.posts %}
-    {% if post.id contains "404" %}{% else %}
-      <url>
-        <loc>{{site.base}}{{ post.url }}</loc>
-        {% assign versions=site.posts | where:"ref", post.ref %}
-        {% for version in versions %}
-          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
-        {% endfor %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        <changefreq>weekly</changefreq>
-      </url>
-    {% endif %}
+    <url>
+      <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
+      {% assign versions = site.posts | where:"ref", post.ref | where_exp:"item", "item.lang" | sort: "lang" %}
+      {% for version in versions %}
+        <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}" />
+      {% endfor %}
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
   {% endfor %}
-  {% for page in site.pages %}
-    {% if page.id contains "404" %}{% else %}
-      <url>
-        <loc>{{site.base}}{{ page.url }}</loc>
-        {% assign versions=site.pages | where:"ref", page.ref %}
-        {% for version in versions %}
-          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
-        {% endfor %}
-        <changefreq>weekly</changefreq>
-      </url>
-    {% endif %}
+  {% for page in translated_pages %}
+    <url>
+      <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
+      {% assign versions = translated_pages | where:"ref", page.ref | sort: "lang" %}
+      {% for version in versions %}
+        <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}" />
+      {% endfor %}
+      <changefreq>weekly</changefreq>
+    </url>
   {% endfor %}
-  </urlset>
+</urlset>

@@ -1,32 +1,41 @@
-# jekyll-multilingual-fullcalendar
+# Vedalva
 
-Jekyll - a default jekyll template with multilingual fullcalendar feature.
+Bilingual (PL/EN) Jekyll site with stories and songs from the world of Noricia.
 
+## Local development
 
-> :warning:
-  This theme requires ruby and rubygems installed
+1. Install Ruby and Bundler.
+2. Install dependencies:
 
----
+```bash
+bundle install
+```
 
-### Install and Test
+3. Run local server:
 
-1. Download or clone repo `git clone git@github.com:vidhyav656/jekyll-multilingual-fullcalendar.git`
-2. Enter the folder: `cd jekyll-multilingual-fullcalendar/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
+```bash
+bundle exec jekyll serve --watch
+```
 
-Access via: [http://localhost:4000/](http://localhost:4000/)
+4. Open:
 
----
+```text
+http://localhost:4000
+```
 
-### Demo and Download
+## Project structure
 
-[Demo](https://vidhyav656.github.io/jekyll-multilingual-fullcalendar/)
-[Download](https://github.com/vidhyav656/jekyll-multilingual-fullcalendar/archive/master.zip)
+- `_posts/` - story and song entries in Polish and English
+- `_layouts/` - page and post layouts
+- `_includes/` - shared head/header/footer partials
+- `_sass/` and `css/main.scss` - styles
+- `index.html` and `start.html` - language entry pages
+- `sitemaps.xml` and `robots.txt` - SEO files
 
----
+## Content model
 
-### Copyright and license
+Multilingual pages/posts are paired by shared `ref` in front matter and a `lang` code (`pl` / `en`).
 
-It is under [the MIT license](/LICENSE).
+## License
+
+MIT. See [LICENSE](/LICENSE).

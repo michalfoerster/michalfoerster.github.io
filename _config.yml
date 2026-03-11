@@ -7,11 +7,11 @@ description:
   pl: Legendy i opowieści Norycji. Na podstawie kronik Lingvaru, Vardurii oraz przekazów ustnych.
 author: M. Foerster
 index:
-  en:
-  pl: start.html
+  en: start.html
+  pl:
 feed:
   en: /feed.xml
-  pl: /futter.xml
+  pl: /feed.xml
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true

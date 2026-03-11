@@ -1,20 +1,28 @@
 <div class="wrapper">
+    {% assign current_lang = page.lang | default: "en" %}
 
-    <a class="site-title" href="{{ site.url }}{{ site.baseurl }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a>
+    <a class="site-title" href="{{ site.index[current_lang] | default: "" | prepend: "/" | prepend: site.baseurl | prepend: site.url }}">{{ site.title[current_lang] | default: site.title.en }}</a>
 
     <nav class="site-nav">
       <div class="trigger">
-        {% assign pages=site.pages | where:"lang", page.lang %}
-        {% for my_page in pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        {% assign nav_pages = site.pages | where:"lang", current_lang %}
+        {% for nav_page in nav_pages %}
+          {% if nav_page.title %}
+          <a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}">{{ nav_page.title }}</a>
           {% endif %}
         {% endfor %}
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
 
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %} <a class="page-language" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+        {% if page.ref %}
+          {% assign post_versions = site.posts | where:"ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+          {% for version in post_versions %}
+          <a class="page-language {{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}">{{ version.lang }}</a>
+          {% endfor %}
+
+          {% assign page_versions = site.pages | where:"ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+          {% for version in page_versions %}
+          <a class="page-language {{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}">{{ version.lang }}</a>
+          {% endfor %}
+        {% endif %}
       </div>
     </nav>
   </div>

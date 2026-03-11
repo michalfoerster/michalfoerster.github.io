@@ -199,6 +199,13 @@
     font-size: 20px;
 }
 
+.intro-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+
 .post-list {
     margin-left: 0;
     list-style: none;
@@ -208,9 +215,23 @@
     }
 }
 
+.post-list-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+}
+
+.post-date {
+    flex-shrink: 0;
+}
+
+.post-list-title {
+    margin: 0;
 }
 
 .post-link {

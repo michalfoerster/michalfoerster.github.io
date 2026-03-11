@@ -2,15 +2,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% assign current_lang = page.lang | default: "en" %}
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[current_lang] | default: site.title.en | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[current_lang] | default: site.description.en }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
-  <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />{% endfor %}
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
-  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />{% endfor %}
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ site.feed[page.lang] | prepend: site.baseurl | prepend: site.url }}">
+  {% if page.ref %}
+    {% assign translated_posts = site.posts | where:"ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+    {% for version in translated_posts %}
+  <link rel="alternate" hreflang="{{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}" />
+    {% endfor %}
+    {% assign translated_pages = site.pages | where:"ref", page.ref | where_exp: "item", "item.lang" | sort: "lang" %}
+    {% for version in translated_pages %}
+  <link rel="alternate" hreflang="{{ version.lang }}" href="{{ version.url | prepend: site.baseurl | prepend: site.url }}" />
+    {% endfor %}
+  {% endif %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title[current_lang] | default: site.title.en }}" href="{{ site.feed[current_lang] | default: site.feed.en | prepend: site.baseurl | prepend: site.url }}">
 </head>
