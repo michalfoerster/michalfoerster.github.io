@@ -3,9 +3,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% assign current_lang = page.lang | default: "en" %}
+  {% assign page_title = page.seo_title | default: page.title | default: site.title[current_lang] | default: site.title.en %}
+  {% assign page_description = page.description | default: page.excerpt | default: site.description[current_lang] | default: site.description.en %}
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[current_lang] | default: site.title.en | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[current_lang] | default: site.description.en }}{% endif %}">
+  <title>{{ page_title | strip_html | strip_newlines | escape }}</title>
+  <meta name="description" content="{{ page_description | strip_html | strip_newlines | truncate: 165 | escape }}">
+  <meta name="author" content="{{ site.author_name | default: site.author | escape }}">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page_title | strip_html | strip_newlines | escape }}">
+  <meta property="og:description" content="{{ page_description | strip_html | strip_newlines | truncate: 165 | escape }}">
+  <meta property="og:locale" content="{% if current_lang == 'pl' %}pl_PL{% else %}en_US{% endif %}">
 
   <script>
     (function () {

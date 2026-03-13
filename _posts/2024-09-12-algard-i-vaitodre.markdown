@@ -4,6 +4,10 @@ title: "Opowieść o Älgardzie i Vaitōdre"
 date: 2025-04-12
 ref: algard-vaitodre
 lang: pl
+world_category: legends
+text_type: legenda
+lead: "Opowieść z pogranicza Turoli o lęku, pysze i przebudzeniu dawnego zagrożenia."
+description: "Legenda o Älgardzie, jaskini Rhukastar i wydarzeniach, które odmieniły los górskiej osady."
 ---
 
 ## Rozdział pierwszy

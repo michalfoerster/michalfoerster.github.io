@@ -4,6 +4,10 @@ title: "The Tale of Vaitōdre"
 date: 2025-12-04
 ref: fable-vaitodre
 lang: en
+world_category: legends
+text_type: fable
+lead: "A mountain tale of Vaitōdre and the night when a dragon wakes above the valley."
+description: "A fable about Vaitōdre, hidden valleys, and first contact between the vilas and human settlers."
 ---
 
 ## Part One

@@ -4,9 +4,25 @@ title: "Baśń o Vaitōdre"
 date: 2025-12-04
 ref: fable-vaitodre
 lang: pl
+world_category: legends
+text_type: baśń
+lead: "Opowieść o Vaitōdre i chwili, gdy przebudzenie smoka wystawia dolinę na próbę."
+description: "Baśń o Vaitōdre, ukrytej dolinie i starciu między światem wiłów a światem ludzi."
 ---
 
 ## Część pierwsza
+
+<p>Posłuchaj nagrania:</p>
+<div class="youtube-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/HgA154hyUis"
+    title="Baśń o Vaitōdre - nagranie"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
+</div>
 
 W górach, które nazywamy Turola, wiłowie zaś Velsire, ukryta była dolina Rōdmine. Od niepamiętnych czasów mieszkali tam potomkowie Hilima, wiłowie z plemienia Melarów. 
 

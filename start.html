@@ -1,26 +1,34 @@
 ---
 layout: default
-ref: index
+ref: home
 lang: en
+nav_key: home
+seo_title: "Michał Foerster | Ostatni Potop and world archive"
+description: "Author website of Michał Foerster: the Ostatni Potop book project and a curated archive of source texts from the world."
 ---
 
-<div class="intro-row">
-  <img
-    class="site-avatar"
-    src="{{ site.baseurl }}/assets/img/avatar.jpg"
-    alt="Avatar {{ site.author }}"
-  />
-  <p class="intro-text">{{ site.description[page.lang] }}</p>
-</div>
+<section class="hero" aria-labelledby="hero-title">
+  <p class="hero-kicker">Author website</p>
+  <h1 id="hero-title" class="hero-title">{{ site.author_name }}</h1>
+  <p class="hero-lead">I am creating a fantasy world and writing the novel “Ostatni Potop”. On this site you will find project information, materials, and source texts.</p>
+  <div class="hero-actions">
+    <a class="button-link" href="{{ '/last-deluge/' | prepend: site.baseurl | prepend: site.url }}">Explore “Ostatni Potop”</a>
+    <a class="button-link button-link-secondary" href="{{ '/archive/' | prepend: site.baseurl | prepend: site.url }}">Visit the archive</a>
+  </div>
+</section>
 
-<div class="post-list">
+<section class="landing-section" aria-labelledby="latest-title">
+  <h2 id="latest-title" class="SubSection">Latest texts</h2>
   {% assign posts = site.posts | where: "lang", page.lang %}
-  {% for post in posts %}
-  <article class="post-list-item">
-    <p class="post-list-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-    <h2 class="post-list-title">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-    </h2>
-  </article>
-  {% endfor %}
-</div>
+  <ul class="latest-list">
+    {% for post in posts limit: 3 %}
+      {% assign current_type = post.text_type | default: "other" %}
+    <li class="latest-list-item">
+      <time class="latest-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d.%-m.%Y" }}</time>
+      <a class="post-link latest-title-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+      <span class="latest-type">{{ current_type | capitalize }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+  <p><a class="text-link" href="{{ '/archive/' | prepend: site.baseurl | prepend: site.url }}">Open full archive</a></p>
+</section>

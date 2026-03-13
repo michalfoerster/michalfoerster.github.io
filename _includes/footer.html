@@ -1,9 +1,3 @@
-{% assign current_lang = page.lang | default: "en" %}
-{% assign footer_prefix = "Copyright" %}
-{% if current_lang == "pl" %}
-  {% assign footer_prefix = "Prawa autorskie" %}
-{% endif %}
-
 <footer class="site-footer">
-  <p>{{ site.title[current_lang] | default: site.title.en }} {{ 'now' | date: '%Y' }} · {{ footer_prefix }} {{ site.author }}</p>
+  <p>{{ 'now' | date: '%Y' }} Prawa autorskie {{ site.author }}</p>
 </footer>

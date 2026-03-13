@@ -1,17 +1,51 @@
 title:
+  en: Michał Foerster
+  pl: Michał Foerster
+brand:
   en: Vedalva
   pl: Vedalva
-email: michalfoerster@gmail.com
+email: ""
 description:
-  en: Legends and stories of Noricia. Based on the chronicles of Lingvar, Varduria and oral tradition.
-  pl: Legendy i opowieści Norycji. Na podstawie kronik Lingvaru, Vardurii oraz przekazów ustnych.
+  en: Author website of Michał Foerster. The literary project Ostatni Potop and a curated archive of source texts from the Noricia.
+  pl: Strona autorska Michała Foerstera. Projekt literacki Ostatni Potop oraz uporządkowane archiwum tekstów źródłowych Norycji.
 author: M. Foerster
+author_name: Michał Foerster
+project_title:
+  en: Ostatni Potop
+  pl: Ostatni Potop
 index:
   en: start.html
   pl:
 feed:
   en: /feed.xml
   pl: /feed.xml
+nav:
+  pl:
+    - label: Strona główna
+      url: /
+      key: home
+    - label: Autor
+      url: /o-autorze/
+      key: author
+    - label: Ostatni potop
+      url: /ostatni-potop/
+      key: project
+    - label: Archiwum
+      url: /archiwum/
+      key: archive
+  en:
+    - label: Home
+      url: /start.html
+      key: home
+    - label: Author
+      url: /about/
+      key: author
+    - label: Ostatni potop
+      url: /last-deluge/
+      key: project
+    - label: Archive
+      url: /archive/
+      key: archive
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true

@@ -4,9 +4,25 @@ title: "Serce olbrzyma"
 date: 2025-12-04
 ref: fable-hobr
 lang: pl
+world_category: legends
+text_type: baśń
+lead: "Dworska baśń o księciu, który próbuje przechytrzyć olbrzyma i ocalić królestwo."
+description: "Baśń ze Starego Dworu o księciu Ostrowcu, olbrzymie Hobrze i sprycie silniejszym niż miecz."
 ---
 
 *Z legend Starego Dworu. Baśń spisana przez Kersirana*
+
+<p>Posłuchaj nagrania:</p>
+<div class="youtube-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/SFaKGOopH7w"
+    title="Serce olbrzyma - nagranie"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
+</div>
 
 Dawno, dawno temu królestwem Andomiru władał stary, mądry król Inzuves. Miał on wielu przyjaciół, którzy wspomagali go w kłopotach, a najsłynniejszym z nich był książę Ostrowiec, o którym będzie ta opowieść.
 

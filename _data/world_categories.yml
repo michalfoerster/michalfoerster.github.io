@@ -1,0 +1,39 @@
+legends:
+  pl:
+    name: Legendy i baśnie
+    description: Opowieści przekazywane między pokoleniami, tworzące wyobraźnię i pamięć świata.
+  en:
+    name: Legends and fables
+    description: Oral and courtly tales that shape the collective memory of the world.
+
+songs:
+  pl:
+    name: Pieśni
+    description: Utwory śpiewane i recytowane; ślady dawnych obrzędów, pamięci i języka.
+  en:
+    name: Songs
+    description: Sung and recited pieces preserving ritual, memory, and language.
+
+chronicles:
+  pl:
+    name: Kroniki
+    description: Materiały kronikarskie i zapisy dziejów, porządkujące fakty świata przedstawionego.
+  en:
+    name: Chronicles
+    description: Chronicle material and records that structure the history of the setting.
+
+translations:
+  pl:
+    name: Przekłady i opracowania
+    description: Tłumaczenia, warianty językowe i komentarze redakcyjne do tekstów świata.
+  en:
+    name: Translations and studies
+    description: Translations, language variants, and editorial notes attached to world texts.
+
+world-materials:
+  pl:
+    name: Materiały świata przedstawionego
+    description: Notatki, dokumenty i artefakty uzupełniające kontekst świata i projektu książkowego.
+  en:
+    name: Worldbuilding materials
+    description: Notes, documents, and in-world artifacts expanding the context of the book project.
