@@ -4,6 +4,10 @@ title:  "The Tale of Älgard and Vaitōdre"
 lang: en
 date:   2025-04-12
 ref: algard-vaitodre
+world_category: legends
+text_type: legend
+lead: "A frontier tale of fear, pride, and the awakening of an old force in the Turola Mountains."
+description: "A legend from Noricia about Älgard, the cave of Rhukastar, and the first signs of disaster."
 ---
 
 ## Chapter One

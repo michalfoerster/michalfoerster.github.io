@@ -4,6 +4,10 @@ title: "The Princess And The Dragon Song"
 lang: en
 date: 2026-02-25
 ref: princess-dragon-song
+world_category: songs
+text_type: song
+lead: "A short Ligvar song and translation describing ritual sacrifice to the Insatiable."
+description: "The Princess and the Dragon Song in Ligvar and English translation."
 ---
 
 A Ligvar song describing human sacrifices.

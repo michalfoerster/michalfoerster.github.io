@@ -4,15 +4,65 @@
   {% include head.html %}
 
   <body>
-    <main class="Margins">
+    {% assign current_lang = page.lang | default: "en" %}
+    {% assign skip_label = "Skip to content" %}
+    {% if current_lang == "pl" %}
+      {% assign skip_label = "Przejdź do treści" %}
+    {% endif %}
+    <a class="skip-link" href="#content">{{ skip_label }}</a>
+
+    <div class="Margins">
       {% include header.html %}
 
-      <section class="PaperContent">
+      <main id="content" class="PaperContent">
         {{ content }}
-      </section>
+      </main>
 
       {% include footer.html %}
-    </main>
+    </div>
+
+    <script>
+      (function () {
+        var toggle = document.getElementById("nav-toggle");
+        var nav = document.getElementById("site-nav-menu");
+
+        if (!toggle || !nav) {
+          return;
+        }
+
+        var mq = window.matchMedia("(max-width: 640px)");
+
+        function setOpenState(isOpen) {
+          nav.classList.toggle("is-open", isOpen);
+          toggle.setAttribute("aria-expanded", String(isOpen));
+          var openLabel = toggle.getAttribute("data-open-label") || "Open menu";
+          var closeLabel = toggle.getAttribute("data-close-label") || "Close menu";
+          toggle.setAttribute("aria-label", isOpen ? closeLabel : openLabel);
+        }
+
+        setOpenState(false);
+
+        toggle.addEventListener("click", function () {
+          var currentlyOpen = toggle.getAttribute("aria-expanded") === "true";
+          setOpenState(!currentlyOpen);
+        });
+
+        nav.addEventListener("click", function (event) {
+          if (!mq.matches) {
+            return;
+          }
+          if (event.target && event.target.classList.contains("nav-link")) {
+            setOpenState(false);
+          }
+        });
+
+        window.addEventListener("resize", function () {
+          if (!mq.matches) {
+            setOpenState(false);
+          }
+        });
+      })();
+    </script>
 
     <script>
       (function () {

@@ -4,6 +4,10 @@ title: "Księżniczka i smok - pieśń lingvarska"
 lang: pl
 date: 2026-02-25
 ref: princess-dragon-song
+world_category: songs
+text_type: pieśń
+lead: "Krótka pieśń w języku lingvarskim wraz z tłumaczeniem, opisująca ofiarę składaną smokowi."
+description: "Pieśń lingvarska o księżniczce i smoku, z wersją oryginalną i przekładem na język polski."
 ---
 
 Piosenka ligvarska, opisująca ofiary z ludzi.

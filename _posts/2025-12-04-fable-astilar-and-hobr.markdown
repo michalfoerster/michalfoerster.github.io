@@ -4,6 +4,10 @@ title: "Heart of a Giant"
 date: 2025-12-04
 ref: fable-hobr
 lang: en
+world_category: legends
+text_type: fable
+lead: "A court fable about wit, courage, and the hidden weakness of a giant invader."
+description: "A fable from the Old Court in which Prince Astilar faces the giant Hobr threatening Andomir."
 ---
 
 *From the Legends of the Old Court. A tale written down by Kersiran*

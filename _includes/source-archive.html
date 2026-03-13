@@ -1,0 +1,18 @@
+{% assign current_lang = include.lang | default: page.lang | default: "pl" %}
+{% assign posts_in_lang = site.posts | where: "lang", current_lang %}
+{% assign date_format = "%-d.%-m.%Y" %}
+{% assign fallback_type = "other" %}
+{% if current_lang == "pl" %}
+  {% assign fallback_type = "inny gatunek" %}
+{% endif %}
+
+<ul class="latest-list archive-flat-list">
+  {% for post in posts_in_lang %}
+    {% assign current_type = post.text_type | default: fallback_type %}
+  <li class="latest-list-item archive-flat-item">
+    <time class="latest-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+    <a class="post-link latest-title-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+    <span class="latest-type">{{ current_type | capitalize }}</span>
+  </li>
+  {% endfor %}
+</ul>

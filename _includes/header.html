@@ -1,17 +1,44 @@
 {% assign current_lang = page.lang | default: "en" %}
-{% assign home_label = "Home" %}
 {% assign toggle_label = "Switch to dark mode" %}
+{% assign active_key = page.nav_key %}
+{% assign nav_open_label = "Open menu" %}
+{% assign nav_close_label = "Close menu" %}
+{% assign nav_menu_text = "Menu" %}
 {% if current_lang == "pl" %}
-  {% assign home_label = "Strona główna" %}
   {% assign toggle_label = "Przełącz na tryb ciemny" %}
+  {% assign nav_open_label = "Otwórz menu" %}
+  {% assign nav_close_label = "Zamknij menu" %}
+  {% assign nav_menu_text = "Menu" %}
+{% endif %}
+{% if page.layout == "post" and active_key == nil %}
+  {% assign active_key = "archive" %}
 {% endif %}
 
 <header class="site-header">
-  <a class="site-title" href="{{ site.index[current_lang] | default: '' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title[current_lang] | default: site.title.en }}</a>
+  <a class="site-title" href="{{ site.index[current_lang] | default: '' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">
+    <span class="site-title-main">{{ site.title[current_lang] | default: site.title.en }}</span>
+    <span class="site-title-sub">{{ site.brand[current_lang] | default: site.brand.en }}</span>
+  </a>
 
   <div class="site-controls">
-    <nav class="site-nav" aria-label="Main">
-      <a class="control-link" href="{{ site.index[current_lang] | default: '' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">{{ home_label }}</a>
+    <button
+      id="nav-toggle"
+      class="control-link nav-toggle"
+      type="button"
+      aria-expanded="false"
+      aria-controls="site-nav-menu"
+      aria-label="{{ nav_open_label }}"
+      data-open-label="{{ nav_open_label }}"
+      data-close-label="{{ nav_close_label }}"
+    >
+      <span class="nav-toggle-icon" aria-hidden="true">☰</span>
+      <span class="nav-toggle-text">{{ nav_menu_text }}</span>
+    </button>
+
+    <nav id="site-nav-menu" class="site-nav" aria-label="Main">
+      {% for item in site.nav[current_lang] %}
+      <a class="control-link nav-link {% if active_key == item.key %}is-active{% endif %}" href="{{ item.url | prepend: site.baseurl | prepend: site.url }}">{{ item.label }}</a>
+      {% endfor %}
     </nav>
 
     <div class="language-switch" aria-label="Languages">

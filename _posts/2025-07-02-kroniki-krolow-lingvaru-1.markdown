@@ -4,6 +4,10 @@ title: "Kroniki królów Lingvaru - część pierwsza"
 date: 2025-07-02
 ref: kkl-1
 lang: pl
+world_category: chronicles
+text_type: kronika
+lead: "Fragment kronikarski o początkach ludów i najdawniejszych migracjach w świecie Norycji."
+description: "Pierwsza część kroniki Lingvaru: zapis o początkach ludzkości, ucieczkach i formowaniu dawnych państw."
 ---
 
 *Lingvar Thenatis Uvedruns, czyli Kroniki królów Lingvaru*
