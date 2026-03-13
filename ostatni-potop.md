@@ -23,6 +23,10 @@ lead: "Projekt powieści heist fantasy."
 <section class="landing-section" aria-labelledby="fragmenty">
   <h2 id="fragmenty" class="SubSection">Fragmenty i materiały</h2>
   <p>Na stronie publikowane są materiały źródłowe, głównie z zamierzchłych czasów. W ramach możliwości dodaję objaśnienia i tłumaczę ich kontekst. Zamieszczane będą również fragmenty i dodatki do projektu "Ostatni potop". Oczywiście, bez zdradzania szczegółów powieści.</p>
+  {% assign chapter_excerpt = site.posts | where: "ref", "ostatni-potop-one" | where: "lang", page.lang | first %}
+  {% if chapter_excerpt %}
+  <p><a class="text-link" href="{{ chapter_excerpt.url | prepend: site.baseurl | prepend: site.url }}">Przeczytaj fragment pierwszego rozdziału</a></p>
+  {% endif %}
   <p><a class="text-link" href="{{ '/archiwum/' | prepend: site.baseurl | prepend: site.url }}">Przejdź do archiwum</a></p>
 </section>
 

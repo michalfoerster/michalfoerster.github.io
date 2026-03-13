@@ -23,6 +23,10 @@ lead: "Heist fantasy novel project."
 <section class="landing-section" aria-labelledby="materials">
   <h2 id="materials" class="SubSection">Fragments and materials</h2>
   <p>The website publishes source materials, primarily from ancient times. Whenever possible, I add explanations and contextualize them. Excerpts and additions to the novel project will also be posted. Without revealing any details about the novel, of course.</p>
+  {% assign chapter_excerpt = site.posts | where: "ref", "ostatni-potop-one" | where: "lang", page.lang | first %}
+  {% if chapter_excerpt %}
+  <p><a class="text-link" href="{{ chapter_excerpt.url | prepend: site.baseurl | prepend: site.url }}">Read an excerpt from the first chapter</a></p>
+  {% endif %}
   <p><a class="text-link" href="{{ '/archive/' | prepend: site.baseurl | prepend: site.url }}">Go to the archive</a></p>
 </section>
 
