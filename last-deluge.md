@@ -7,7 +7,7 @@ nav_key: project
 permalink: /last-deluge/
 seo_title: "Ostatni potop | Literary project"
 description: "Overview of the Ostatni potop book project: concept, world tone, supporting materials, and current status."
-lead: "Heist fantasy novel project."
+lead: "A heist fantasy about conspiracy, friendship, and a kingdom on the brink of collapse."
 ---
 
 <section class="landing-section" aria-labelledby="book">
@@ -17,7 +17,13 @@ lead: "Heist fantasy novel project."
 
 <section class="landing-section" aria-labelledby="world">
   <h2 id="world" class="SubSection">About the world</h2>
-  <p>The world of Noricia is built in layers: through the core narrative, chronicles, legends, and songs. The tone is literary, restrained, and serious, balancing myth with history.</p>
+<p>Parvaldenia. An island whose kings must heed the advice of the all-powerful Guild of Alchemists and spies tasked with protecting the people from monsters. For centuries, it has been submerged by flood after flood. The coming one may be its last.</p></section>
+
+<section class="landing-section" aria-labelledby="postaci">
+<h2 id="o-swiecie" class="SubSection">Heroes</h2>
+<p><b>Fox</b> - A boy from the lowlands, a burglar. Drawn into matters bigger than he could have imagined.</p>
+<p><b>Istvald</b> - The Mastermind. The Agent. The Madman. The leader of the team, who always has a plan B up his sleeve. But he can't always control his own emotions.</p>
+<p><b>Elmede</b> - A girl who wanted to take part in an adventure. Instead, she found herself in the middle of a horror movie.</p>
 </section>
 
 <section class="landing-section" aria-labelledby="materials">
@@ -27,7 +33,6 @@ lead: "Heist fantasy novel project."
   {% if chapter_excerpt %}
   <p><a class="text-link" href="{{ chapter_excerpt.url | prepend: site.baseurl | prepend: site.url }}">Read an excerpt from the first chapter</a></p>
   {% endif %}
-  <p><a class="text-link" href="{{ '/archive/' | prepend: site.baseurl | prepend: site.url }}">Go to the archive</a></p>
 </section>
 
 <section class="landing-section" aria-labelledby="status">

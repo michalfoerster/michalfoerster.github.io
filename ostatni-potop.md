@@ -7,7 +7,7 @@ nav_key: project
 permalink: /ostatni-potop/
 seo_title: "Ostatni potop | Projekt literacki"
 description: "Opis projektu książkowego Ostatni potop: założenia, charakter świata, materiały i aktualny status prac."
-lead: "Projekt powieści heist fantasy."
+lead: "Heist fantasy o spisku, przyjaźni i królestwie stojącym nad przepaścią"
 ---
 
 <section class="landing-section" aria-labelledby="o-ksiazce">
@@ -17,7 +17,13 @@ lead: "Projekt powieści heist fantasy."
 
 <section class="landing-section" aria-labelledby="o-swiecie">
   <h2 id="o-swiecie" class="SubSection">O świecie</h2>
-  <p>Świat Norycji jest budowany warstwowo: przez opowieść główną, materiały kronikarskie, legendy i pieśni. Ton projektu jest poważny, literacki i oszczędny, oparty na napięciu między mitem a historią.</p>
+<p>Parvaldenia. Wyspa, której królowie muszą liczyć się ze zdaniem wszechwładnego Cechu Alchemików i szpiegami mającymi za zadanie bronić ludzi przed potworami. Od stuleci zatopiana przez kolejne potopy. Ten, który nadchodzi może być jej ostatnim. </p></section>
+
+<section class="landing-section" aria-labelledby="postaci">
+  <h2 id="o-swiecie" class="SubSection">Bohaterowie</h2>
+<p><b>Lis</b> - Chłopak z nizin, włamywacz. Wciągnięty w sprawy większe, niż mógłby sobie wyobrazić.</p>
+<p><b>Istvald</b> - Mózg. Agent. Wariat. Dowódca ekipy, który zawsze ma plan B w zanadrzu. Ale nie zawsze radzi sobie z własnymi emocjami.</p>
+<p><b>Elmede</b> - Dziewczyna, która chciała wziąć udział w przygodzie. Trafiła zaś w sam środek horroru.</p>
 </section>
 
 <section class="landing-section" aria-labelledby="fragmenty">
@@ -27,7 +33,6 @@ lead: "Projekt powieści heist fantasy."
   {% if chapter_excerpt %}
   <p><a class="text-link" href="{{ chapter_excerpt.url | prepend: site.baseurl | prepend: site.url }}">Przeczytaj fragment pierwszego rozdziału</a></p>
   {% endif %}
-  <p><a class="text-link" href="{{ '/archiwum/' | prepend: site.baseurl | prepend: site.url }}">Przejdź do archiwum</a></p>
 </section>
 
 <section class="landing-section" aria-labelledby="status">
