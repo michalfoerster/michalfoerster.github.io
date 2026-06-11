@@ -32,10 +32,10 @@ W czasach, w których rozgrywa się ta opowieść, w dolinie żyła dziewczyna i
 
 W Dolinie Rōdmine mieszkał ktoś jeszcze, kto bliski był sercu dziewczyny. Na imię miał Sislauden, był zaś myśliwym. Ceniono go przede wszystkim za piękny głos. Wieczorami Sislauden śpiewał pieśni wiłów - o królewnie Sōline, Pierwszej Ziemi i Drzewie Veitarne; o wyspie Adalsia i przybyciu Hilima. Niekiedy siadał po drugiej stronie potoku, śpiewając tylko dla Vaitōdre:
 
-*O, gaile tiniel*<br>
-*Asgrinde evs siran!*<br>
-*Darine lainel*<br>
-*Varo tevs enoian?*<br>
+*O, tiniel gaile*<br>
+*Asgrinde tevs siran!*<br>
+*Lainel daranin*<br>
+*Var tevs enoian?*<br>
 
 Innym razem spacerowali po górach, oglądając kryjące się tam cuda. Kiedy jednak Sislauden wyruszał na polowania, Vaitōdre sama zwiedzała dzikie ostępy, pomagając ich mieszkańcom. Przenosiła wieści między jeziornicami zamieszkującymi górskie stawy, ratowała małe kozice, które zagubiły się wśród skał, albo budziła ze snu niedźwiedzia śpiocha.
 
@@ -119,7 +119,7 @@ Dzień drogi za doliną Rōdmine, wysoko wśród gór, znajdowało się jezioro
 
 I znów, jak cień, ruszyła przez górskie lasy. Gnana potrzebą, Vaitōdre szybsza była od niejednego biegacza. Nim minął dzień, stanęła zdyszana nad taflą spokojnego jeziora. Ukłoniła się grzecznie, a następnie wypowiedziała zaklęcie:
 
-— *Va! Keltin tilmene, nōrkenir! Eido tan keresume egele.*
+— *Va! Keltan nar tilminē, nōriakenir! Berdo tir tan glev.*
 
 Na jej słowa wody jeziora zabulgotały, a ze wzburzonych fal wyłoniła się twarz starca o błękitnej brodzie. Jego oczy były mądre i spokojne jak skały otaczające jezioro. Stolim przyjrzał się uważnie dziewczynie, a potem zapytał:
 
